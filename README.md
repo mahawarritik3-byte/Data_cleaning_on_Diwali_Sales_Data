@@ -27,20 +27,35 @@ Gender and age group analysis
 ✔️ Removed duplicate records
 
 📊 Exploratory Data Analysis (EDA)
+
 🔹 Gender Analysis
+
 Compared purchasing behavior between male and female customers.
+
 🔹 Age Group Analysis
+
 Identified the most active customer age groups.
+
 🔹 State-wise Analysis
+
 Found top-performing states based on total sales and orders.
+
 🔹 Marital Status Analysis
+
 Analyzed purchasing trends based on marital status.
+
 🔹 Occupation Analysis
+
 Identified occupations contributing most to sales.
+
 🔹 Product Category Analysis
+
 Determined the most popular product categories.
+
 🔹 Product Insights
+
 Found top-selling products with highest order counts.
+
 📈 Libraries Used
 🐍 Pandas
 📊 Matplotlib
@@ -48,21 +63,31 @@ Found top-selling products with highest order counts.
 📓 Jupyter Notebook
 💡 Key Insights
 Female customers contributed more to sales than male customers.
+
 Married women aged 26-35 years are the major buyers.
+
 States like Uttar Pradesh, Maharashtra, and Karnataka generated high sales.
+
 Customers working in IT, Healthcare, and Aviation sectors showed higher purchasing power.
+
 Food, Clothing, and Electronics were among the most purchased categories.
+
 🚀 How to Run This Project
+
 1️⃣ Clone the Repository
 git clone <repository-link>
+
 2️⃣ Install Required Libraries
 pip install pandas matplotlib seaborn
+
 3️⃣ Run Jupyter Notebook
 jupyter notebook
+
 📁 Project Structure
 ├── Diwali_Sales_Data.csv
 ├── Diwali_Sales_Analysis.ipynb
 ├── README.md
+
 🎯 Project Objective
 
 The main objective of this project is to clean raw sales data and perform detailed exploratory analysis to uncover customer behavior and sales trends during the Diwali season.

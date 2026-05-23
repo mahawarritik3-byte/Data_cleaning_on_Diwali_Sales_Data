@@ -64,11 +64,18 @@ Determined the most popular product categories.
 Found top-selling products with highest order counts.
 
 📈 Libraries Used
+
 🐍 Pandas
+
 📊 Matplotlib
+
 🎨 Seaborn
+
 📓 Jupyter Notebook
+
+
 💡 Key Insights
+
 Female customers contributed more to sales than male customers.
 
 Married women aged 26-35 years are the major buyers.

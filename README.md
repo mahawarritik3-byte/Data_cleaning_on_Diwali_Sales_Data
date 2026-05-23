@@ -1,4 +1,5 @@
 🪔 Diwali Sales Data Analysis Project
+
 📌 Overview
 
 This project performs complete Data Cleaning and Exploratory Data Analysis (EDA) on the Diwali Sales Dataset using Python libraries like Pandas, Matplotlib, and Seaborn.
@@ -17,13 +18,19 @@ Purchase amount
 Occupation
 State-wise sales
 Gender and age group analysis
+
 🧹 Data Cleaning Performed
 
 ✔️ Removed unnecessary columns
+
 ✔️ Checked and handled missing values
+
 ✔️ Removed null entries
+
 ✔️ Corrected data types
+
 ✔️ Renamed columns for better readability
+
 ✔️ Removed duplicate records
 
 📊 Exploratory Data Analysis (EDA)
@@ -84,8 +91,11 @@ pip install pandas matplotlib seaborn
 jupyter notebook
 
 📁 Project Structure
+
 ├── Diwali_Sales_Data.csv
+
 ├── Diwali_Sales_Analysis.ipynb
+
 ├── README.md
 
 🎯 Project Objective
